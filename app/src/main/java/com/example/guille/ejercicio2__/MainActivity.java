@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     ImageView img1, img2, img3, img4, img5, img6,img7,img8,img9;
-    int contador1=0, contador2=0, contador3=0;
+    int contador1=0;
     int[] coleccion = {R.drawable.icon1,R.drawable.icon2,R.drawable.icon3,R.drawable.icon4,R.drawable.icon5,
     R.drawable.icon6,R.drawable.icon7,R.drawable.icon8,R.drawable.icon9};
 
