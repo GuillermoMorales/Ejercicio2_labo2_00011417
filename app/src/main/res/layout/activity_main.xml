@@ -13,53 +13,62 @@
         android:layout_width="wrap_content"
         android:layout_height="150dp"
         android:id="@+id/image1"
+        android:layout_margin="30dp"
         android:src="@drawable/icon1" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="150dp"
+        android:layout_margin="30dp"
         android:id="@+id/image2"
         android:src="@drawable/icon2"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="150dp"
+        android:layout_margin="30dp"
         android:id="@+id/image3"
         android:src="@drawable/icon4"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="150dp"
+        android:layout_margin="30dp"
         android:id="@+id/image4"
         android:src="@drawable/icon3"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="150dp"
+        android:layout_margin="30dp"
         android:id="@+id/image5"
         android:src="@drawable/icon4"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="150dp"
+        android:layout_margin="30dp"
         android:id="@+id/image6"
         android:src="@drawable/icon5"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="150dp"
+        android:layout_margin="30dp"
         android:id="@+id/image7"
         android:src="@drawable/icon6"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="150dp"
+        android:layout_margin="30dp"
         android:id="@+id/image8"
         android:src="@drawable/icon8"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="150dp"
+        android:layout_margin="30dp"
         android:id="@+id/image9"
         android:src="@drawable/icon9"/>
 
